@@ -1,2 +1,2 @@
-# Projeto-Reconhecedor-de-placas-automotivas
-Repositório destinado ao projeto da disciplina Processamento Digital de Imagens. Tal projeto reconhece placas automotivas em imagens contendo veículos. Conforme descrito no relatório abaixo, há a aspiração de evoluir o projeto para um sistema reconhecedor de caracteres das placas.
+# Processamento Digital de Imagens: Reconhecendo Placas Automotivas em Imagens
+Repositório destinado ao projeto da disciplina MCZA018-17	Processamento Digital de Imagens do curso de Ciências da Computação na UFABC. Tal projeto reconhece placas automotivas em imagens contendo veículos. Conforme descrito no relatório abaixo, há a aspiração de evoluir o projeto para um sistema reconhecedor de caracteres das placas.
